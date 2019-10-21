@@ -1,0 +1,16 @@
+{
+  "name": "postgres-node-express-practice",
+  "version": "1.0.0",
+  "description": "My first RESTful API with Node.js, Express, and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
